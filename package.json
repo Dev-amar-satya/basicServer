@@ -1,0 +1,17 @@
+{
+  "name": "basicserver",
+  "version": "1.0.0",
+  "description": "only for test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deploy"
+  ],
+  "author": "amartya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
